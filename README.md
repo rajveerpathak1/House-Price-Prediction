@@ -44,10 +44,7 @@ This project predicts house prices based on a variety of features like square fo
 
 ---
 
-## 📸 Preview
-*(Insert screenshots here of plots and maps if this is a GitHub repo)*
 
----
 
 ## 📬 Contact
 **Rajveer Pathak**  
